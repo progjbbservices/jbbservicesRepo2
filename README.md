@@ -1,2 +1,2 @@
 # jbbservicesRepo2
-# edited by progjoe@gmail.com accoumt
+# edited by progjoe@gmail.com account
